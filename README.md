@@ -8,4 +8,4 @@ Each CSV files have own Table object. To join them, innerJoin method could be us
 
 When two tables are joined each others, innerJoin method returns new Table object.
 
-More comment could be added to code.
+PS: More comments could be added to code.
