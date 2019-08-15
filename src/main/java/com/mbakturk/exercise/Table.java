@@ -12,7 +12,6 @@ public class Table {
     private String tableName;
     private List<String[]> data;
     private Map<String, Integer> columns;
-    private Table joinedTable;
 
 
     public Table(String tableName) {
